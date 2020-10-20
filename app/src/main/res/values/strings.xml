@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">오늘, 달린다</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+    <string name="no_geocoder_available">가용성 GEO CODER 없음</string>
+
+    <string name="fetch_address">주소 불러오기</string>
+
+    <string name="address_found">주소 갱신 완료.</string>
+
+    <string name="no_address_found">주소를 찾지 못하였습니다. 잠시 후 다시 시도해주세요.</string>
+    <string name="no_location_data_provided">위치 데이터가 제공되지 않음</string>
+    <string name="service_not_available">서비스를 사용할 수 없음</string>
+    <string name="invalid_lat_long_used">잘못된 위도 또는 경도가 사용</string>
+
+
+    <string name="permission_rationale">위치 권한이 필요함</string>
+    <string name="permission_denied_explanation">위치 권한이 필요합니다. 설정 > 앱 > 권한에서 설정이 가능합니다.</string>
+    <string name="settings">설정</string>
+</resources>
